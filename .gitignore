@@ -1,0 +1,14 @@
+venv311/
+venv/
+.venv/
+
+Python cache
+pycache/
+*.pyc
+
+Jupyter
+.ipynb_checkpoints/
+
+OS files
+.DS_Store
+Thumbs.db
